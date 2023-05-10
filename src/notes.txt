@@ -1,0 +1,4 @@
+-- Dar feedback de error de busqueda
+-- Crear pagina para cada uno de los personajes ✅
+-- usar react router ✅
+-- Crear paginación en home
